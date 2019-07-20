@@ -1,0 +1,5 @@
+function inception() {
+    inception();
+}
+
+inception();
