@@ -1,5 +1,7 @@
 // Web API
 window;
+// window object === this
+// this === window  //true
 
 // DOM
 // asynchronous code
