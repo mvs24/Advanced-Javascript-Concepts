@@ -8,7 +8,6 @@ function one() {
     };
   };
 }
-
 one()()();
 
 const closure = string => number1 => number2 =>
