@@ -5,6 +5,7 @@ function one() {
   one.call(); //hi
   one.apply(); //hi
   
+
   // The difference
   
   const person1 = {
