@@ -22,6 +22,5 @@ function calculate() {
 
 //we use call stack to get the results from different functions
 
-
 debugger;
 calculate();
