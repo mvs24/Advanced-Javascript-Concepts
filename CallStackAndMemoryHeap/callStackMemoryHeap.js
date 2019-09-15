@@ -20,6 +20,8 @@ function calculate() {
     return substractTwo(numToSub);
 }
 
+
+
 //we use call stack to get the results from different functions
 debugger;
 calculate();
