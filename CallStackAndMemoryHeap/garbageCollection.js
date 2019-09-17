@@ -4,7 +4,6 @@
 var obj = {
     text: "something"
 }
-
 obj=5;
 
 // this obj is is garbaged
