@@ -21,7 +21,6 @@ obj=5;
 // For each v referenced by root
 //      Mark(v)
 
-
 // Sweep()
 // For each object p in heap
 //     If markedBit(p) = true then
