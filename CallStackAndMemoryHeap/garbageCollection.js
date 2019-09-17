@@ -16,7 +16,6 @@ obj=5;
 
 // mark-and-sweep algorithm
 
-
 // Mark(root)
 // If markedBit(root) = false then
 // markedBit(root) = true
