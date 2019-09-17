@@ -13,7 +13,6 @@ obj=5;
 
  console.log(obj);  //return 5;
  
-
 // mark-and-sweep algorithm
 
 // Mark(root)
