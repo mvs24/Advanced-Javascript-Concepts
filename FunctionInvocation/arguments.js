@@ -10,8 +10,7 @@ function arg1(str1, str2){
   function arg2(...args){
     // arguments ->>>  object created immediately with a function in execution context
     
-    console.log(args);
-    
+    console.log(args); 
   }
   arg2("s","p")
   
