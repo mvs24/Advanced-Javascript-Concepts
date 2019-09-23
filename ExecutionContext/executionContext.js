@@ -12,6 +12,7 @@ function call() {
 
 call();
 
+
 // Execution Context
 
 // printSomething()
