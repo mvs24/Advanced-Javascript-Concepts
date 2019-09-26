@@ -9,4 +9,5 @@ var modulePatrern = (function() {
   };
 })();
 
+
 console.log(modulePatrern.sum(13));
