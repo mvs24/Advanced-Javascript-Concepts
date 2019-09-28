@@ -1,4 +1,4 @@
-var modulePattern = (function() {
+let modulePattern = (function() {
   let number1 = 4;
   let number2 = 13;
   function sum(num3) {
