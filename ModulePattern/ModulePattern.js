@@ -11,4 +11,5 @@ let modulePattern = (function() {
   };
 })();
 
+
 console.log(modulePattern.sum(13));
