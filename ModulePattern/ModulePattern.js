@@ -5,7 +5,6 @@ let modulePattern = (function() {
   function sum(num3) {
     return number1 + number2 + num3;
   }
- 
   return {
    // everything returned is going to be public
     sum
