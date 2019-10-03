@@ -12,4 +12,5 @@ function hof(person, func) {
   }
 }
 
+
 hof("admin", authenticate);
